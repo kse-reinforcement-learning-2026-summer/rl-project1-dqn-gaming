@@ -1,0 +1,30 @@
+# Instructor-only files
+project_completed.ipynb
+eval/
+*_completed.*
+.github/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.venv-ci/
+venv/
